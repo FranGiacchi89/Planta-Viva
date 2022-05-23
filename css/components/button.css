@@ -1,0 +1,16 @@
+.btn-purple
+{
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn-purple:hover
+{
+  color: black;
+  transition: 0.8s ease;
+  background-color: white;
+  border: 3px solid;
+}
